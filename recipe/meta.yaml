@@ -49,10 +49,6 @@ test:
 about:
   home: https://github.com/PhD-Gabriel-Caballero/6ABOS
   summary: '6S-based atmospheric correction for EnMAP hyperspectral data'
-   description: |
-    6ABOS (6S-based Atmospheric Background Offset Subtraction) provides an open source
-    atmospheric correction framework for EnMAP L1C data, featuring parallel 6S RTM 
-    simulations and automated GEE-based parameter retrieval.
   license: GPL-3.0-or-later
   license_family: GPL
   license_file: LICENSE
